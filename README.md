@@ -1,6 +1,6 @@
 # Alfred Preferences
 
-## Containts:
+## Contains:
 
 * Custom Searches
 * Extension as Shell Script for creating Backbone Boilerplate project and open it in Sublime Text 2
