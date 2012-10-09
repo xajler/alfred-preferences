@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>keyword</key>
+		<string>github</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Github</string>
+		<key>url</key>
+		<string>https://github.com/search?q={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>jq</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>jQuery Search</string>
+		<key>url</key>
+		<string>http://api.jquery.com/?ns0=1&amp;s={query}&amp;go=</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>jquery</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>jQuery API</string>
+		<key>url</key>
+		<string>http://api.jquery.com/{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>ssh</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>SSH</string>
+		<key>url</key>
+		<string>ssh://{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>rails</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Rails API dock</string>
+		<key>url</key>
+		<string>http://apidock.com/rails/search?query={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>pb</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Pirate Bay search</string>
+		<key>url</key>
+		<string>http://thepiratebay.org/search/{query}/0/99/0</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>top</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Pirate Bay Top 100 movies</string>
+		<key>url</key>
+		<string>http://thepiratebay.se/top/201</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>ruby</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Ruby API dock</string>
+		<key>url</key>
+		<string>http://apidock.com/ruby/search?query={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>rb</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Ruby Doc</string>
+		<key>url</key>
+		<string>http://ruby-doc.org/search.html?cx=011815814100681837392%3Awnccv6st5qk&amp;sa=Search&amp;cof=FORID%3A9&amp;q={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>gh</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Github Repo search</string>
+		<key>url</key>
+		<string>https://github.com/search?langOverride=&amp;language=&amp;q={query}&amp;repo=&amp;start_value=1&amp;type=Repositories&amp;x=0&amp;y=0</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>pg</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Postgres documentation</string>
+		<key>url</key>
+		<string>http://www.postgresql.org/search/?q={query}&amp;a=1&amp;submit=Search</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>brew</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Hombrew formula search</string>
+		<key>url</key>
+		<string>http://braumeister.org/search/{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>iconfinder</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>IconFinder search</string>
+		<key>url</key>
+		<string>http://www.iconfinder.com/search/?q={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>bb</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>backbone e.g Model or Model-extend</string>
+		<key>url</key>
+		<string>http://backbonejs.org/#{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
+		<string>underscore</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>underscore.js</string>
+		<key>url</key>
+		<string>http://underscorejs.org/#{query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+</array>
+</plist>
